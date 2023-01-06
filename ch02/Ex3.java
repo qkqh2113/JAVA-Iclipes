@@ -14,7 +14,7 @@ public class Ex3 {
 		double d = 3.14;
 		//char, boolean
 		char c = 'A';
-		boolean k = false
+		boolean k = false;
 		
 		
 		
