@@ -9,7 +9,7 @@ package ch06;
 public class StaticEx2 {
 	
 	static int a = 10;
-	int b = 10;//non static
+	int b = 10; //non static
 	
 	static void prn1() {
 		System.out.println(a);
